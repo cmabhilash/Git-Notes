@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+                color: azure;
+                 text-align: center; font-size: larger;
+                 background-color: rgb(136, 67, 67);
+            }
+            body{
+                background-color: black;
+            }
